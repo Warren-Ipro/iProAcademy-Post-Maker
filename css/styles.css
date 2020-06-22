@@ -48,7 +48,7 @@ body {
   color: #22335B;
 }
 .preview-container #preview-quote .logo {
-  background-image: url("../assets/images/ia-logo-primary-horizontal.png");
+  background-image: url("./assets/images/ia-logo-primary-horizontal.png");
   background-position: left;
 }
 .preview-container #preview-question {
@@ -59,7 +59,7 @@ body {
   color: #5DE3B1;
 }
 .preview-container #preview-question .logo {
-  background-image: url("../assets/images/ia-logo-dark-horizontal.png");
+  background-image: url("./assets/images/ia-logo-dark-horizontal.png");
   background-position: 128px;
 }
 .preview-container #preview-fact {
@@ -67,17 +67,17 @@ body {
   color: #3277CF;
 }
 .preview-container #preview-fact .logo {
-  background-image: url("../assets/images/ia-logo-primary-vertical.png");
+  background-image: url("./assets/images/ia-logo-primary-vertical.png");
   background-position: center;
 }
 .preview-container #preview-fact .bg-asset-fact {
-  background-image: url("../assets/images/bg-asset-fact-dark.png");
+  background-image: url("./assets/images/bg-asset-fact-dark.png");
   background-position: center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .preview-container #preview-fill {
-  background-image: url("../assets/images/asset-bg-fill-light.png");
+  background-image: url("./assets/images/asset-bg-fill-light.png");
   background-position: center;
   color: #000000;
 }
@@ -85,7 +85,7 @@ body {
   color: #3D5793;
 }
 .preview-container #preview-fill .logo {
-  background-image: url("../assets/images/ia-logo-primary-horizontal.png");
+  background-image: url("./assets/images/ia-logo-primary-horizontal.png");
   background-position: 128px;
 }
 
@@ -95,7 +95,7 @@ body {
   color: #D7DDEB;
 }
 .preview-container.dark-theme #preview-quote .logo {
-  background-image: url("../assets/images/ia-logo-light-horizontal.png");
+  background-image: url("./assets/images/ia-logo-light-horizontal.png");
   background-position: left;
 }
 .preview-container.dark-theme #preview-question {
@@ -106,7 +106,7 @@ body {
   color: #CDF9E9;
 }
 .preview-container.dark-theme #preview-question .logo {
-  background-image: url("../assets/images/ia-logo-light-horizontal.png");
+  background-image: url("./assets/images/ia-logo-light-horizontal.png");
   background-position: 128px;
 }
 .preview-container.dark-theme #preview-fact {
@@ -114,17 +114,17 @@ body {
   color: #FFFFFF;
 }
 .preview-container.dark-theme #preview-fact .logo {
-  background-image: url("../assets/images/ia-logo-light-vertical.png");
+  background-image: url("./assets/images/ia-logo-light-vertical.png");
   background-position: center;
 }
 .preview-container.dark-theme #preview-fact .bg-asset-fact {
-  background-image: url("../assets/images/bg-asset-fact-light.png");
+  background-image: url("./assets/images/bg-asset-fact-light.png");
   background-position: center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .preview-container.dark-theme #preview-fill {
-  background-image: url("../assets/images/asset-bg-fill-dark.png");
+  background-image: url("./assets/images/asset-bg-fill-dark.png");
   background-position: center;
   color: #FFFFFF;
 }
@@ -132,6 +132,6 @@ body {
   color: #D7DDEB;
 }
 .preview-container.dark-theme #preview-fill .logo {
-  background-image: url("../assets/images/ia-logo-light-horizontal.png");
+  background-image: url("./assets/images/ia-logo-light-horizontal.png");
   background-position: 128px;
 }

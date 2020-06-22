@@ -13992,7 +13992,7 @@ body {
 }
 
 .preview-container #preview-quote .logo {
-  background-image: url("../assets/images/IA_Logo_Primary_Horizontal.png");
+  background-image: url("../assets/images/ia-logo-primary-horizontal.png");
   background-position: left;
 }
 
@@ -14006,7 +14006,7 @@ body {
 }
 
 .preview-container #preview-question .logo {
-  background-image: url("../assets/images/IA_Logo_Dark_Horizontal.png");
+  background-image: url("../assets/images/ia-logo-dark-horizontal.png");
   background-position: 128px;
 }
 
@@ -14016,7 +14016,7 @@ body {
 }
 
 .preview-container #preview-fact .logo {
-  background-image: url("../assets/images/IA_Logo_Primary_Vertical.png");
+  background-image: url("../assets/images/ia-logo-primary-vertical.png");
   background-position: center;
 }
 
@@ -14038,7 +14038,7 @@ body {
 }
 
 .preview-container #preview-fill .logo {
-  background-image: url("../assets/images/IA_Logo_primary_Horizontal.png");
+  background-image: url("../assets/images/ia-logo-primary-horizontal.png");
   background-position: 128px;
 }
 
@@ -14050,7 +14050,7 @@ body {
 }
 
 .preview-container.dark-theme #preview-quote .logo {
-  background-image: url("../assets/images/IA_Logo_Light_Horizontal.png");
+  background-image: url("../assets/images/ia-logo-light-horizontal.png");
   background-position: left;
 }
 
@@ -14064,7 +14064,7 @@ body {
 }
 
 .preview-container.dark-theme #preview-question .logo {
-  background-image: url("../assets/images/IA_Logo_Light_Horizontal.png");
+  background-image: url("../assets/images/ia-logo-light-horizontal.png");
   background-position: 128px;
 }
 
@@ -14074,7 +14074,7 @@ body {
 }
 
 .preview-container.dark-theme #preview-fact .logo {
-  background-image: url("../assets/images/IA_Logo_Light_Vertical.png");
+  background-image: url("../assets/images/ia-logo-light-vertical.png");
   background-position: center;
 }
 
@@ -14096,7 +14096,7 @@ body {
 }
 
 .preview-container.dark-theme #preview-fill .logo {
-  background-image: url("../assets/images/IA_Logo_Light_Horizontal.png");
+  background-image: url("../assets/images/ia-logo-light-horizontal.png");
   background-position: 128px;
 }
 
